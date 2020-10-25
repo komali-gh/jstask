@@ -1,0 +1,19 @@
+{
+    "details":{
+        "name":"chefffood",
+        "image":"food.png",
+        "email":"cookies@gmail.com",
+        
+        "number":"965874264",
+        "adress":"Bencircle,vijyawada",
+        "button":"submit"
+    },
+"details1":{
+    "name1":"cookie",
+    "image1":"food.png",
+    "email1":"foodie@gmail.com",
+
+    "number1":"086497-256444",
+    "adress1":"beside bustand,guntur"
+}
+}
